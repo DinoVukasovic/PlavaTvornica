@@ -23,6 +23,5 @@ for (i = 1; i <= numbers; i++) {
 	}
 
 }
-console.log(p);
 console.log(answer);
 
